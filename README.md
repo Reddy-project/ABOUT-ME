@@ -4,24 +4,26 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Racherla Maheeswar Reddy!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center"></h3>
 
 <br/>
 
-<div align="center">
+<div align="center">A passionate Business Analyst skilled in Power BI, SQL, and Excel with a solid understanding of business processes and stakeholder management.
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on SQL, POWER BI
+
+ 🌱 I’m currently learning Business and Data Analysis
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+👯 I’m looking for a Business Analyst Role
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🤝 I’m looking for help with Business Analyst
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about SQL, TABLEAU, POWER BI, EXCEL & DATA ANALYSIS
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:mahesreddy6785@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
