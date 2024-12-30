@@ -4,76 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?
         font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Racherla+Maheeswar+Reddy!;" />
 </h1>
-
-<h3 align="center"></h3>
-
-<br/>
-
-<div align="center">A passionate Business Analyst skilled in Power BI, SQL, and Excel with a solid understanding of business processes and stakeholder management.
- 
- 🔭 I’m currently working on SQL, POWER BI
-
- 🌱 I’m currently learning Business and Data Analysis
- 
-👯 I’m looking for a Business Analyst Role
-
-🤝 I’m looking for help with Business Analyst
-
-💬 Ask me about SQL, TABLEAU, POWER BI, EXCEL & DATA ANALYSIS
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:mahesreddy6785@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/r-maheswar-reddy1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
-  <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=SQL,PostgreSQL,Power BI,Tableau" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Reddy-project/Reddy-project/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+A passionate Business Analyst skilled in Power BI, SQL, and Excel with a solid understanding of business processes and stakeholder management. <br><br>🔭 I’m currently working on SQL, POWER BI<br><br> 🌱 I’m presently learning Business and Data Analysis<br> <br>👯 I’m looking for a Business Analyst Role<br><br>🤝 I’m looking for help with Business Analyst<br><br>💬 Ask me about SQL, TABLEAU, POWER BI, EXCEL & DATA ANALYSIS<br><br>📄 Know about my experiences (Resume) https://drive.google.com/file/d/1T0QxFjIXJ0SHP14EuKAsOgT5TRLyXX5a/view?usp=sharing<br><br>📫 Mail to : mahesreddy6785@gmail.com
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/r-maheswar-reddy1/) 
 
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Reddy-project&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Reddy-project&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reddy-project&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Reddy-project&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Reddy-project&icon=6&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
